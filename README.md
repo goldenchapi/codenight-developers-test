@@ -27,24 +27,6 @@ A list of CodeNight Telegram Group Developer
 - **GitHub:** [ ALPHACOD3RS ](https://github.com/ALPHACOD3RS)
 - **Bio:** Python backend and android developer :)
 
-### Developer 3
-- **Name:** Yaekob Demisse
-- **GitHub:** [Jamescog](https://github.com/Jamescog)
-- **Website:** Underconstruction
-- **Bio:** Yaekob is a Python Backend developer. 2+ Experiance in Flask, FastAPI, Database Development,
-and Web Scrapping. Learning and Improving Daily.
-
-### Developer 4
-- **Name:** Dawit Getachew
-- **GitHub:** [Dawit Getachew](https://github.com/Dawit-Getachew)
-- **Bio:** I'm Backend Developer and DevOps Engineer.
-
-### Developer 5
-- **Name:** Kibreab Teshome
-- **GitHub:** [kibreab teshome](https://github.com/kibreab-kb-kb)
-- **Website:**
-- **Bio:**  I'm  a React developer starting backend with Django
-
 <!-- ### Developer 2
 - **Name:** Jane Smith
 - **GitHub:** [janesmith](https://github.com/janesmith)
@@ -59,36 +41,6 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [Bekacru](https://github.com/Bekacru)
 - **Bio:** Bereket Engida is a full stack developer based on Addis Ababa. With a passion for building digital services/things he likes to make. He has a knack for all sort of things from coming up with unique ideas, to launching products, planning and designing and for all the way to solving real-life problems using {code}. When he is not coding or online, he enjoys making music, and performing musical instruments.
 
-
-### Developer 2
-- **Name:** Amanuael Kebede
-- **GitHub:** [Blogrammer](https://github.com/Manuel-heav)
-- **Bio:** I'm a MERN stack developer, and I love React. Sue me! I'm also currently freelancing and looking for remote opportunities. 
-
-### Developer 3
-- **Name:** Robel Mezemir ( Robi )
-- **GitHub:** [Robimez](https://github.com/robimez)
-- **Website:** https://robi.work
-- **Bio:** A Meticulous Fullstack developer, in love with building & delivering clockwork level solutions A.S.A.P. ❤️ Svelte and TS .
-
-### Developer 4
-- **Name:** Tamirat K.
-- **GitHub:** [Tamirat](https://github.com/kika1s1)
-- **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
-### Developer 5
-- **Name:** Haileiyesus.
-- **GitHub:** [Haileiyesus](https://github.com/haileiyesus-29)
-- **Bio:** A sfullstack javascipt and Typescript developer. currently open for jobs.
-
-### Developer 6
-- **Name:** Abel Ayalew
-- **GitHub:** [nabroleonx](https://github.com/nabroleonx)
-- **Bio:** (M|P)ERN stack dev with a knack for building creative solutions
-
-### Developer 7
-- **Name:** Aman Negussie (Manny)
-- **GitHub:** [MannyNe](https://github.com/MannyNe)
-- **Bio:** A Backend Heavy Fullstack Web and App developer, with a background in DevSecOps, powered by coffee. TS is love, TS is life. <3 :))
 
 <!-- ### Developer 2
 - **Name:** Emily Davis

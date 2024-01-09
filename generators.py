@@ -91,7 +91,7 @@ def generate_readme():
         developers_text += '\n'
     
     readme = README_TEMPLATE.substitute(categories=categories_text, developers=developers_text.strip())
-    with open(os.path.join(BASE_DIR, 'README-test.md'), 'w') as f:
+    with open(os.path.join(BASE_DIR, 'README.md'), 'w') as f:
         f.write(readme)
 
 if __name__ == '__main__':
